@@ -19,7 +19,7 @@ You can find my C++ practice and mini projects in [My C++ Repo](https://github.c
 
 ## 📫 Connect with me!
 - ✉️ Email: sharankataria38gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](linkedin.com/in/sharan-kataria-8b6454356)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/sharan-kataria-8b6454356)
 - 🎨 Portfolio: [my-portfolio.com](https://sharan-kataria.vercel.app/)
 
 ---

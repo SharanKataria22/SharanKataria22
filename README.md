@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sharan Kataria
 
-<!--
-**SharanKataria22/SharanKataria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I'm a beginner programmer & graphic designer  
+Currently learning **C++** and improving my design skills at **Sukkur IBA University**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills I'm Learning:
+- 🚀 C++
+- 🎨 Graphic Design (Photoshop, Illustrator)
+- 🌐 Basic Web Design
+
+---
+
+## 📘 My Projects
+You can find my C++ practice and mini projects in [My C++ Repo](https://github.com/SharanKataria22/CPP)
+
+---
+
+## 📫 Connect with me!
+- ✉️ Email: sharankataria38gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourname](linkedin.com/in/sharan-kataria-8b6454356)
+- 🎨 Portfolio: [my-portfolio.com](https://sharan-kataria.vercel.app/)
+
+---
+
+> 💡 *"Learning never exhausts the mind." – Leonardo da

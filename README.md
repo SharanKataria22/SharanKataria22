@@ -1,28 +1,34 @@
 ![Banner Image](https://github.com/SharanKataria22/SharanKataria22/blob/main/images/Banner.png)
-# 👋 Hi there! I'm Sharan Kataria
 
-### 💻 I'm a beginner programmer & graphic designer  
-Currently learning **C++** and improving my design skills at **Sukkur IBA University**.
+<h1>Hello 👋, I'm Sharan Kataria</h1>
+<h3>Developer | Programmer | Graphic Designer</h3>
 
----
-
-## 🔧 Skills I'm Learning:
-- 🚀 C++
-- 🎨 Graphic Design (Photoshop, Illustrator)
-- 🌐 Basic Web Design
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Developer;I+am+a+Programmer;Also+a+Certified+Graphic+Designer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📘 My Projects
-You can find my C++ practice and mini projects in [My C++ Repo](https://github.com/SharanKataria22/CPP)
+### 👨‍💻 About Me
+
+- 👀 I’m interested in **Web Development** and **Programming**
+- 🎨 I also create stunning **Graphic Designs** using Adobe Illustrator, Photoshop & Canva
+- 🌱 I’m currently learning **C++**, and improving my Development skills
+- 🔭 I’m working on some personal **portfolio** and **open source** projects
+- 📫 How to reach me: **sharankataria38@gmail.com**
+- 💻 Visit my [*Portfolio*](https://sharan-kataria.vercel.app/) for more details about me.
+
 
 ---
 
-## 📫 Connect with me!
-- ✉️ Email: sharankataria38gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sharan-kataria](https://www.linkedin.com/in/sharan-kataria-8b6454356)
-- 🎨 Portfolio: [my-portfolio.com](https://sharan-kataria.vercel.app/)
+### 🛠️ Languages & Tools
 
----
-
-> 💡 *"Learning never exhausts the mind." – Leonardo da
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>

@@ -1,3 +1,4 @@
+![Banner Image](https://github.com/SharanKataria22/SharanKataria22/blob/main/images/GitHub%20Banner.png)
 # 👋 Hi there! I'm Sharan Kataria
 
 ### 💻 I'm a beginner programmer & graphic designer  

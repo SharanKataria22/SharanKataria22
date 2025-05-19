@@ -4,12 +4,12 @@
 <h3>Developer | Programmer | Graphic Designer</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Developer;I+am+a+Programmer;Also+a+Certified+Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&Center=true&width=435&lines=I+am+a+Developer;I+am+a+Programmer;Also+a+Certified+Graphic+Designer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 - 👀 I’m interested in **Web Development** and **Programming**
 - 🎨 I also create stunning **Graphic Designs** using Adobe Illustrator, Photoshop & Canva

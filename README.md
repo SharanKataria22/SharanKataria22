@@ -4,7 +4,7 @@
 <h3>Developer | Programmer | Graphic Designer</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2278f8&Center=true&width=435&lines=I+am+a+Developer;I+am+a+Programmer;Also+a+Certified+Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=2278f8&Center=true&width=435&lines=I+am+a+Developer;I+am+a+Programmer;Also+a+Certified+Graphic+Designer" alt="Typing SVG" />
 </p>
 
 ---

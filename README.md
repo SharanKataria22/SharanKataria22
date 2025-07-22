@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/SharanKataria22/SharanKataria22/blob/main/images/Banner.png)
+![Banner Image](https://github.com/SharanKataria22/SharanKataria22/blob/main/assets/Banner.png)
 
 <h1>Hello 👋, I'm Sharan Kataria</h1>
 <h3>Developer | Programmer | Graphic Designer</h3>

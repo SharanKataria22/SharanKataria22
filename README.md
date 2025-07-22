@@ -58,8 +58,8 @@
 > “The only way to do great work is to love what you do.”  
 > — *Steve Jobs*
 
-<h1 align="center">🐍 My GitHub Contribution Graph</h1>
+<h1 align="center">🐍 GitHub Contribution Graph</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharankataria22/sharankataria22/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/sharankataria22/sharankataria22/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>

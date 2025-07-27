@@ -55,5 +55,5 @@
 
 ### ✨ Thought of the Day
 
-> “The only way to do great work is to love what you do.”  
-> — *Steve Jobs*
+> “Consistency is what transforms average into excellence.” <br>
+> — Unknown

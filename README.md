@@ -56,4 +56,4 @@
 ### ✨ Thought of the Day
 
 > “Consistency is what transforms average into excellence.” <br>
-> — Unknown
+> *— Unknown*
